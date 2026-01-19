@@ -14,6 +14,7 @@ Silent Channel is a technical experiment designed to eliminate the "third party"
 Below you can find the latest versions of the application for supported platforms:
 
 - **Android (Google Play)**: [Pro](https://play.google.com/store/apps/details?id=ua.at.tsvetkov.silentchannel.pro) and [Free](https://play.google.com/store/apps/details?id=ua.at.tsvetkov.silentchannel)
+- **Android (GitHub)**: [Аpk File](silent-channel-free.apk)
 - **Windows (Desktop)**: In progress
 - **Documentation & Manual**: https://silent-channel.do.am/
 
