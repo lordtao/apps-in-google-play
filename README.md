@@ -15,6 +15,7 @@ Below you can find the latest versions of the application for supported platform
 
 - **Android (Google Play)**: [Pro](https://play.google.com/store/apps/details?id=ua.at.tsvetkov.silentchannel.pro) and [Free](https://play.google.com/store/apps/details?id=ua.at.tsvetkov.silentchannel)
 - **Android (GitHub)**: [Аpk File](silent-channel-free.apk)
+- **Android app Manifest**: [AndroidManifest.xml](AndroidManifest.xml) - You can check and analyze the app's permissions. Or extract it from the APK file yourself. 
 - **Windows (Desktop)**: In progress
 - **Documentation & Manual**: https://silent-channel.do.am/
 
