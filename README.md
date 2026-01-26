@@ -19,6 +19,11 @@ Below you can find the latest versions of the application for supported platform
 - **Windows (Desktop)**: In progress
 - **Documentation & Manual**: https://silent-channel.do.am/
 
+### **Project Status: Moving to Open Source**
+
+Silent Channel is going Open Source!
+In response to community feedback regarding transparency and trust, we are currently preparing the codebase for public release under the GPLv3 license.
+
 © 2026 Tsvetkov Alexandr
 
 ## **Weather and Wardrobe Assistant**
